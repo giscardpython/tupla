@@ -34,4 +34,4 @@ print(frutas_string)
 tupla_frutas = ('Maçã', 'Uva', 'Laranja', 'Mamão', 'Melão', 'Pêra')
 frutas_ordenadas = sorted(tupla_frutas)
 for fruta in frutas_ordenadas:
-print(fruta)
+    print(fruta)
